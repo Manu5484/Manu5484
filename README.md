@@ -39,6 +39,7 @@ My foundation in Data Structures & Algorithms (DSA) and C++ complements my pract
 ### Tools
 <p align="left">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -50,7 +51,6 @@ Here are some of the projects I'm proud of:
 ### 1. EdTech
 > A full-stack MERN web application enabling educators to create and manage courses, while students can enroll and learn through an intuitive interface.
 
-* **Key Features:** Secure user authentication and role-based access using JWT and bcrypt, ensuring separate dashboards for students and educators.
 * **[🔗 View Repository]**(https://edtech-gamma-steel.vercel.app/)
 
 ### 2. Crop-Connect
@@ -59,17 +59,14 @@ Here are some of the projects I'm proud of:
 
 ### 3. Hawk-Eye
 > An AI-powered smart surveillance system that uses OpenCV to process real-time video streams and pre-recorded footage to automatically detect motion-based anomalies, unattended objects, and abnormal behaviors.
-* **Key Features:** A multi-stage AI pipeline using OpenCV for video processing, YOLOv8 for real-time object detection, and a ConvLSTM Autoencoder (TensorFlow/Keras) to detect anomalies.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manu5484&show_icons=true&theme=radical" alt="Manu's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu5484&layout=compact&theme=radical" alt="Manu's Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manu5484&show_icons=true&theme=radical&hide=issues" alt="Manu's GitHub Stats" />
 </p>
-
 ---
 
 ## 📫 How to Reach Me
